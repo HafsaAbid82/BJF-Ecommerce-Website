@@ -27,3 +27,8 @@ git clone https://github.com/your-username/bjf-fencing.git
 ```bash
 cd bjf-fencing
 npm install
+```
+3. Start development server:
+```bash
+npm start
+```
