@@ -22,3 +22,8 @@ A React-based fencing company website built with Material-UI.
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/bjf-fencing.git
+```
+2. Install dependencies:
+```bash
+cd bjf-fencing
+npm install
