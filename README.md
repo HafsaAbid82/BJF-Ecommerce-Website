@@ -2,8 +2,6 @@
 
 A React-based fencing company website built with Material-UI.
 
-![BJF Fencing Preview](public/preview.jpg)
-
 ## ✨ Features
 - Interactive product displays
 - Client-side quote calculator
