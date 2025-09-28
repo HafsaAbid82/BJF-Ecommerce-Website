@@ -1,4 +1,4 @@
-# 🏡 BJF Fencing - Modern E-Commerce Solution
+# 🏡 Fencing - Modern E-Commerce Solution
 
 A React-based fencing company website built with Material-UI.
 
@@ -7,7 +7,7 @@ A React-based fencing company website built with Material-UI.
 - Client-side quote calculator
 - Customer testimonial carousel
 - Responsive design
-- Contact forms
+- Lead Generation form
 
 ## 🛠️ Technologies
 - React 18
@@ -19,11 +19,11 @@ A React-based fencing company website built with Material-UI.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/bjf-fencing.git
+git clone https://github.com/HafsaAbid82/Fence-Ecommerce-Website.git
 ```
 2. Install dependencies:
 ```bash
-cd bjf-fencing
+cd Fence-Ecommerce-Website
 npm install
 ```
 3. Start development server:
